@@ -2,9 +2,7 @@
 <h3 align="center">A passionate full stack developer</h3>
 
 
-- 👨‍💻 All of my projects are available at [https://portfolio-ankit-homosapian1999.vercel.app/](https://portfolio-ankit-homosapian1999.vercel.app/){:target="_blank"}
-- [Visit My Portfolio](https://portfolio-ankit-homosapian1999.vercel.app/){:rel="noopener noreferrer" target="_blank"}
-
+- 👨‍💻 All of my projects are available at [https://portfolio-ankit-homosapian1999.vercel.app/](https://portfolio-ankit-homosapian1999.vercel.app/)
 
 - 💬 Ask me about **Javascript, MERN, Nextjs, Typescript**
 
