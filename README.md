@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ankit Dubey</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=homosapian1999&label=Profile%20views&color=0e75b6&style=flat" alt="homosapian1999" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://portfolio-ankit-homosapian1999.vercel.app/](https://portfolio-ankit-homosapian1999.vercel.app/)
 
